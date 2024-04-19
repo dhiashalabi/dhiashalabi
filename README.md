@@ -1,9 +1,9 @@
-[![Dhiaa Al-Shalabi's GitHub Banner](./assets/GitHubBanner.png)](https://github.com/dhiaaalshalabi/dhiaaalshalabi.git)
+[![Dhia Alhaq Shalabi's GitHub Banner](./assets/GitHubBanner.png)](https://github.com/dhiashalabi/dhiashalabi.git)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dhiaaalshalabi)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dhiaaalshalabi)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dhiaaalshalabi)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/dhiaaalshalabi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dhiashalabi)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dhiashalabi)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dhiashalabi)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/dhiashalabi)
 
 ### Hi there, I'm <a href="#" target="_blank">Dhiaa Al-Shalabi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -21,15 +21,19 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
 - 💡 Fun fact: I love playing video games, cooking, & coding
 - 🎹 Would love: To know how to play piano
-- 📫 How to reach me: [Email](mailto:dhiaa.alshalabi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhiaaalshalabi) | [Twitter](https://twitter.com/dhiaaalshalabi)
+- 📫 How to reach me: [Email](mailto:dhia.shalabi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhiashalabi) | [Twitter](https://twitter.com/dhiashalabi)
  
 ----
+
+**Roadmaps Profile**
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6621fd21243716955f247659?variant=light)](https://roadmap.sh)
 
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiaaalshalabi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiaaalshalabi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhiashalabi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiashalabi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
 </p>
 
 <br>
@@ -97,16 +101,16 @@ YAML         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <p>
 
-<a href="https://github.com/dhiaaalshalabi/todo-list-react-app">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiaaalshalabi&repo=todo-list-react-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/dhiashalabi/todo-list-react-app">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiashalabi&repo=todo-list-react-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/dhiaaalshalabi/home-security">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiaaalshalabi&repo=home-security&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/dhiashalabi/home-security">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiashalabi&repo=home-security&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/dhiaaalshalabi/100-days-of-code-the-complete-python">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiaaalshalabi&repo=100-days-of-code-the-complete-python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/dhiashalabi/100-days-of-code-the-complete-python">
+  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiashalabi&repo=100-days-of-code-the-complete-python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 </p>

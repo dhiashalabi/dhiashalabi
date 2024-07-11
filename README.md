@@ -5,9 +5,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dhiashalabi)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/dhiashalabi)
 
-### Hi there, I'm <a href="#" target="_blank">Dhiaa Al-Shalabi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="#" target="_blank">Dhia Alhaq Shalabi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a **Full-Stack Developer**, passionate programmer and a big admirer of open source who loves to contribute to any type of project. As a self-proclaimed coding-artist, I do believe that coding is a scientific discipline at a basic level, but is an art form at a more sublime level, so every programmer has his own way of writing code, and I do have my own unique touch.
+As a software engineer, I design, develop, and deploy scalable and secure web applications using Python, Node.js, and other technologies. I collaborate with cross-functional teams to deliver high-quality software solutions that meet our clients' and users' needs and expectations. 
+
+I have 4+ years of experience in full-stack development, working with various frameworks, tools, and methodologies. I am passionate about learning new skills and staying updated with the latest trends and innovations in the software industry. I have also completed multiple courses and certifications in software engineering, project management, and front-end development from reputable platforms such as Flatiron School, Re:Coded, Scrimba, Coursera, and edX. 
+
+My goal is to shape the future through excellence in software solutions and to contribute to the growth and success of Naseej and its partners. I am a #TechEnthusiast who values innovation, collaboration, and quality.
 
 ---
 
@@ -15,12 +19,11 @@ I am a **Full-Stack Developer**, passionate programmer and a big admirer of open
 
 ## More about me ❤ 
 
-- 📚 I’m currently working on Python & Django, OpenSource Projects
+- 📚 I’m currently working on Python & FastAPI, OpenSource Projects
 - 🔭 I’m currently learning React, Ruby, & Blockchain Development
 - 🙋‍♂️ I’m looking to collaborate & contribute to OpenSource projects
 - ❔ Give it a try & ask me about anything in tech I bet I will answer 😊
-- 💡 Fun fact: I love playing video games, cooking, & coding
-- 🎹 Would love: To know how to play piano
+- 💡 Fun fact: I love playing video games and coding
 - 📫 How to reach me: [Email](mailto:dhia.shalabi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhiashalabi) | [Twitter](https://twitter.com/dhiashalabi)
  
 ----

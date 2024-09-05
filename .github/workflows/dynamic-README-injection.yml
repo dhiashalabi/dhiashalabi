@@ -25,14 +25,14 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "Dhia Alhaq Shalabi"
+          git config --global user.name "Dhia' Shalabi"
           git config --global user.email "dhia.shalabi@gmail.com"
           git commit -m "[Automated] README updated with new Office quote!"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+
   update-waka-readme:
     name: Update this repo's Waka-README
     runs-on: ubuntu-latest

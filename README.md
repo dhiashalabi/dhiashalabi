@@ -11,11 +11,13 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=black)](https://stackoverflow.com/users/11795918/dhiashalabi)
 [![Codecademy Badge](https://img.shields.io/badge/Codecademy-Profile-informational?style=flat&logo=codecademy&logoColor=white&color=black)](https://www.codecademy.com/profiles/dhiashalabi)
 
-<strong>Hi there, I'm DHia SHalabi</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<strong>Hi there, I'm DHia SHalabi!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hey, I’m a seasoned Software Engineer with over 6 years of experience building customer-focused solutions. I specialize in solving complex challenges and delivering scalable, high-quality applications.
+I’m a seasoned Software Engineer with over 6 years of experience building customer-focused solutions. I specialize in solving complex challenges and delivering scalable, high-quality applications.
 
-I lead teams with a focus on building high-performing groups and delivering exceptional products. As a GitHub Developer Program Member, I’m passionate about open-source, with projects impacting thousands. Let's create something extraordinary!
+I lead teams with a focus on building high-performing groups and delivering exceptional products. As a GitHub Developer Program Member, I'm deeply invested in open-source, with projects reaching thousands. Let's bring ideas to life!
+
+[More about me &rarr;](https://dhiashalabi.info)
 
 ----
 

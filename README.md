@@ -90,16 +90,3 @@ YAML         4 mins          ▒░░░░░░░░░░░░░░░░
 ![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
 </details>
-
-<br>
-
-## 📌 Pinned Repositories
-
-<p>
-
-<a href="https://github.com/dhiashalabi/dishdash">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiashalabi&repo=dishdash&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/dhiashalabi/coworking-space">
-  <img height="180em" width="380em" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dhiashalabi&repo=coworking-space&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>

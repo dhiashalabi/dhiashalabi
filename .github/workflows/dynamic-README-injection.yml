@@ -31,7 +31,7 @@ jobs:
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.DHIASHALABI_GITHUB_TOKEN }}
 
   update-waka-readme:
     name: Update this repo's Waka-README

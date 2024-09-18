@@ -1,51 +1,20 @@
 name: Dynamic README injection
 
 on:
-  schedule:
-    # Runs at 12am UTC
-    # - cron: "0 0 * * *"
-    # Runs at 12pm UTC every 2 days
-    - cron: "0 12 */2 * *"
   workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
 
 jobs:
-  get-office-quotes:
-    name: Update this repo's README with office-quotes
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 18.20.4
-
-      - run: yarn
-
-      - run: node .
-
-      - name: Pull Changes
-        run: |
-          git config pull.rebase false
-          git pull
-
-      - name: Add Changes
-        run: |
-          git add .
-
-      - name: Commit Changes
-        run: |
-          git config --global user.name "Dhia Shalabi"
-          git config --global user.email "dhia.shalabi@gmail.com"
-          git commit --allow-empty -a -m "[Automated] README updated with new Office quote!"
-
-      - name: Push Changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-  update-waka-readme:
+  update-readme:
     name: Update this repo's Waka-README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TARGET_BRANCH: master
+          AUTHOR_NAME: Dhia Shalabi
+          AUTHOR_EMAIL: dhia.shalabi@gmail.com

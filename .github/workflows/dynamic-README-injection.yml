@@ -14,6 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TARGET_BRANCH: master
           AUTHOR_NAME: Dhia Shalabi
           AUTHOR_EMAIL: dhia.shalabi@gmail.com

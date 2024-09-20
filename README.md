@@ -34,6 +34,8 @@ I lead teams with a focus on building high-performing groups and delivering exce
 
 <br>
 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dhiashalabi)
+
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->

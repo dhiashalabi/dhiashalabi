@@ -17,9 +17,9 @@ I’m a seasoned Software Engineer with over 6 years of experience building cust
 
 I lead teams with a focus on building high-performing groups and delivering exceptional products. As a GitHub Developer Program Member, I'm deeply invested in open-source, with projects reaching thousands. Let's bring ideas to life!
 
-[More about me &rarr;](https://dhiashalabi.info)
+<a href="https://dhiashalabi.info" target="_blank">More about me &rarr;</a>
 
-----
+---
 
 **Roadmaps Profile**
 

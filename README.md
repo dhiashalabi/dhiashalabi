@@ -11,7 +11,7 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=black)](https://stackoverflow.com/users/11795918/dhiashalabi)
 [![Codecademy Badge](https://img.shields.io/badge/Codecademy-Profile-informational?style=flat&logo=codecademy&logoColor=white&color=black)](https://www.codecademy.com/profiles/dhiashalabi)
 
-<strong>Hi there, I'm DHia SHalabi!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<strong>Hi there, I'm DHia' A. SHalabi!</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I’m a seasoned Software Engineer with over 6 years of experience building customer-focused solutions. I specialize in solving complex challenges and delivering scalable, high-quality applications.
 

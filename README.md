@@ -41,11 +41,11 @@ I lead teams with a focus on building high-performing groups and delivering exce
 <!--START_SECTION:waka-->
 
 ```txt
-Python            17 hrs 17 mins  ████████▓░░░░░░░░░░░░░░░░   34.48 %
-JavaScript        15 hrs 22 mins  ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-TypeScript        6 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-JSON              4 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Dart              1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+JavaScript        20 hrs 34 mins  █████████▓░░░░░░░░░░░░░░░   38.39 %
+Python            15 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   28.56 %
+TypeScript        7 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+JSON              4 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Dart              1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->

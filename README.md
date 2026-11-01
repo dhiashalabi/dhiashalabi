@@ -24,7 +24,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 
 - **[Medad Cloud](https://medad.com) at Naseej for Technology.** The backend of an Institutional Effectiveness Platform for universities: accreditation, surveys, academic KPIs, and Microsoft 365 sync.
 - **AI that shows its work.** Agents that must cite their evidence, document extraction, and meeting assistants that wait for a person to review before anything is saved.
-- **[FrappeForge](https://github.com/frappeforge/frappeforge).** TypeScript-first tooling for Frappe and ERPNext. React hooks are next.
+- **[FrappeForge](https://github.com/frappeforge/frappeforge).** TypeScript-first tooling for Frappe and ERPNext: an API client, a type generator, and React hooks.
 
 ## Shipped
 
@@ -32,7 +32,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
   <a href="https://baleegh.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-baleegh-dark.svg"><img alt="Baleegh, live at baleegh.app: Arabic literacy for primary-school pupils, built solo with Django, Next.js, and an OpenAI learning assistant." src="assets/card-baleegh-light.svg" width="400"></picture></a>
   <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frappeforge-dark.svg"><img alt="FrappeForge: open-source TypeScript tooling for Frappe and ERPNext, with a zero-dependency API client and a DocType type generator on npm." src="assets/card-frappeforge-light.svg" width="400"></picture></a>
   <a href="https://github.com/frappe/frappe/pulls?q=is:pr+author:dhiashalabi+is:merged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frappe-core-dark.svg"><img alt="Frappe Framework: 8 merged pull requests covering RTL support, localization, permissions, and session language handling." src="assets/card-frappe-core-light.svg" width="400"></picture></a>
-  <a href="https://github.com/dhiashalabi/frappe-react-query"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-react-query-dark.svg"><img alt="Frappe React Query: typed TanStack Query hooks for Frappe documents, auth, search, file uploads, and realtime updates over Socket.io." src="assets/card-react-query-light.svg" width="400"></picture></a>
+  <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-react-query-dark.svg"><img alt="Frappe React Query, part of FrappeForge as @frappeforge/react: typed TanStack Query hooks for Frappe documents, auth, search, file uploads, and realtime updates over Socket.io." src="assets/card-react-query-light.svg" width="400"></picture></a>
 </p>
 
 **Also:** [JSON to Excel/CSV Converter](https://github.com/dhiashalabi/fastapi-json-to-xlsx), a small FastAPI tool with CSV-injection-safe output. Private builds include DocuPilot, a self-hosted RAG chat for PDFs, and DataBot, natural-language analytics over MCP.

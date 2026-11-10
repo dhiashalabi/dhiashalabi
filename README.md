@@ -35,7 +35,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
   <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-react-query-dark.svg"><img alt="Frappe React Query, part of FrappeForge as @frappeforge/react: typed TanStack Query hooks for Frappe documents, auth, search, file uploads, and realtime updates over Socket.io." src="assets/card-react-query-light.svg" width="400"></picture></a>
 </p>
 
-**Also:** [JSON to Excel/CSV Converter](https://github.com/dhiashalabi/fastapi-json-to-xlsx), a small FastAPI tool with CSV-injection-safe output. Private builds include DocuPilot, a self-hosted RAG chat for PDFs, and DataBot, natural-language analytics over MCP.
+**Also:** [DocuPilot](https://github.com/dhiashalabi/docupilot), a self-hosted RAG chat for PDFs that cites its pages. [DataBot](https://github.com/dhiashalabi/databot), natural-language analytics over MCP. [JSON to Excel/CSV Converter](https://github.com/dhiashalabi/fastapi-json-to-xlsx), a small FastAPI tool with CSV-injection-safe output.
 
 ## Ship's rules
 

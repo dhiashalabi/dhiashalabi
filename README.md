@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Dhia Shalabi, Senior Software Engineer, System Design, Backend and Applied AI, Riyadh. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
+  <img alt="Dhia Shalabi, Senior Software Engineer, backend and AI systems, Riyadh. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Dhia Shalabi, Senior Software Engineer, Backend and Applied AI, Riyadh. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
+  <img alt="Dhia Shalabi, Senior Software Engineer, System Design, Backend and Applied AI, Riyadh. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -10,32 +10,32 @@
   &nbsp;·&nbsp;
   <a href="https://baleegh.app">Baleegh</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/frappeforge/frappeforge">FrappeForge</a>
+  <a href="https://github.com/dhiashalabi/docupilot">DocuPilot</a>
 </p>
 
 For 7+ years I've designed and shipped backend systems that have to work in production: API platforms, job infrastructure, and AI features with real cost, latency, and permission constraints. I build in English and Arabic, and I've taught more than 1,000 university students along the way.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
-  <img alt="7+ years shipping production software. 1,000+ university students taught over 2 years. 8 merged pull requests in Frappe core. 3 npm packages published and maintained." src="assets/numbers-light.svg" width="100%">
+  <img alt="7+ years shipping production software. 1,000+ university students taught over 2 years. 3 live apps designed and built solo. 4 core systems designed at Naseej." src="assets/numbers-light.svg" width="100%">
 </picture>
 
 ## Now shipping
 
 - **[Medad Cloud](https://medad.com) at Naseej for Technology.** The backend of an Institutional Effectiveness Platform for universities: accreditation, surveys, academic KPIs, and Microsoft 365 sync.
 - **AI that shows its work.** Agents that must cite their evidence, document extraction, and meeting assistants that wait for a person to review before anything is saved.
-- **[FrappeForge](https://github.com/frappeforge/frappeforge).** TypeScript-first tooling for Frappe and ERPNext: an API client, a type generator, and React hooks.
+- **Systems that hold up.** Background jobs that resume after failures, a sync engine with one write path and drift repair, and limits on memory, tokens, and cost.
 
 ## Shipped
 
 <p align="center">
-  <a href="https://baleegh.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-baleegh-dark.svg"><img alt="Baleegh, live at baleegh.app: Arabic literacy for primary-school pupils, built solo with Django, Next.js, and an OpenAI learning assistant." src="assets/card-baleegh-light.svg" width="400"></picture></a>
-  <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frappeforge-dark.svg"><img alt="FrappeForge: open-source TypeScript tooling for Frappe and ERPNext, with a zero-dependency API client and a DocType type generator on npm." src="assets/card-frappeforge-light.svg" width="400"></picture></a>
-  <a href="https://github.com/frappe/frappe/pulls?q=is:pr+author:dhiashalabi+is:merged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frappe-core-dark.svg"><img alt="Frappe Framework: 8 merged pull requests covering RTL support, localization, permissions, and session language handling." src="assets/card-frappe-core-light.svg" width="400"></picture></a>
-  <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-react-query-dark.svg"><img alt="Frappe React Query, part of FrappeForge as @frappeforge/react: typed TanStack Query hooks for Frappe documents, auth, search, file uploads, and realtime updates over Socket.io." src="assets/card-react-query-light.svg" width="400"></picture></a>
+  <a href="https://baleegh.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-baleegh-dark.svg"><img alt="Baleegh, live as three apps: a public site, a pupils' portal, and a staff dashboard. Arabic literacy for primary-school pupils, built solo with Django, Next.js, and an OpenAI learning assistant." src="assets/card-baleegh-light.svg" width="400"></picture></a>
+  <a href="https://github.com/dhiashalabi/docupilot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-docupilot-dark.svg"><img alt="DocuPilot: a self-hosted, multilingual chat over your own PDFs, with RAG, inline page citations, semantic search, and cross-encoder reranking." src="assets/card-docupilot-light.svg" width="400"></picture></a>
+  <a href="https://github.com/dhiashalabi/databot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-databot-dark.svg"><img alt="DataBot: business questions in plain language, answered with charts and PDF or Excel exports, with token limits, cost tracking, and role-based access." src="assets/card-databot-light.svg" width="400"></picture></a>
+  <a href="https://github.com/frappeforge/frappeforge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-frappeforge-dark.svg"><img alt="FrappeForge: open-source TypeScript tooling for Frappe and ERPNext, with a zero-dependency API client and a DocType type generator on npm, plus typed React Query hooks." src="assets/card-frappeforge-light.svg" width="400"></picture></a>
 </p>
 
-**Also:** [DocuPilot](https://github.com/dhiashalabi/docupilot), a self-hosted RAG chat for PDFs that cites its pages. [DataBot](https://github.com/dhiashalabi/databot), natural-language analytics over MCP. [JSON to Excel/CSV Converter](https://github.com/dhiashalabi/fastapi-json-to-xlsx), a small FastAPI tool with CSV-injection-safe output.
+**Also:** [8 merged pull requests](https://github.com/frappe/frappe/pulls?q=is:pr+author:dhiashalabi+is:merged) in the Frappe Framework core, covering RTL, localization, and permissions, and the [JSON to Excel/CSV Converter](https://github.com/dhiashalabi/fastapi-json-to-xlsx), a small FastAPI tool with CSV-injection-safe output.
 
 ## Ship's rules
 
@@ -70,7 +70,8 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 
 | Deck | Cargo |
 | --- | --- |
-| **Backend** | Python, Frappe, Django REST Framework, FastAPI, Celery, RQ, REST APIs |
+| **System design** | Multi-tenant SaaS, data modeling, API design, job queues, distributed locks, rate limiting |
+| **Backend** | Python, Django REST Framework, FastAPI, Celery, RQ, REST APIs, Frappe |
 | **Applied AI** | Pydantic AI, OpenAI, MCP, RAG, pgvector, OCR, PyTorch |
 | **Data** | PostgreSQL, MySQL, Redis, SQLAlchemy, Prisma |
 | **Frontend and mobile** | TypeScript, React, Next.js, TanStack Query, Tailwind CSS, Flutter |

@@ -42,7 +42,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 1. **Bounded by default.** Jobs, memory, tokens, and cost all get limits before they get users.
 2. **Evidence over confidence.** When an AI feature makes a claim, it has to show where the claim came from.
 3. **Arabic is a requirement, not a translation.** RTL and bilingual search are part of the design.
-4. **Tests ship with the code.** If it matters in production, it has a test.
+4. **Honest numbers.** Results are measured, like the 2% → 85% search benchmark, or clearly marked as estimates.
 
 ## The voyage so far
 

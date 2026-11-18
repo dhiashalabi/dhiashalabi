@@ -48,7 +48,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/voyage-dark.svg">
-  <img alt="Career timeline drawn as a sea chart: 2016 Sana'a University, B.Sc. Computer Science. 2019 IT-Tech, first production ERP systems. 2021 Minsati, led a POS for 40+ retailers. 2022 university teaching, 1,000+ students in 2 years. December 2022 Naseej for Technology, Medad Cloud backend and AI, promoted to Senior in 2026. 2025 Baleegh, Arabic literacy, built solo. 2026 open source: DocuPilot, DataBot and FrappeForge, AI and developer tools." src="assets/voyage-light.svg" width="100%">
+  <img alt="Career timeline drawn as a sea chart: 2016 Sana'a University, B.Sc. Computer Science. 2019 IT-Tech, first production ERP systems. 2021 Minsati, led a POS for 40+ retailers. 2022 university teaching, 1,000+ students in 2 years. December 2022 Naseej for Technology, Medad Cloud backend and AI, Senior since 2026. 2025 Baleegh, Arabic literacy, built solo. 2026 open source: DocuPilot, DataBot and FrappeForge, AI and developer tools." src="assets/voyage-light.svg" width="100%">
 </picture>
 
 <details>
@@ -60,7 +60,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 | 2019 | IT-Tech | First production ERP systems |
 | 2021 | Minsati | Led a POS for 40+ retailers |
 | 2022 | University teaching | 1,000+ students in 2 years |
-| Dec 2022 | Naseej for Technology | Medad Cloud backend and AI, promoted to Senior in 2026 |
+| Dec 2022 | Naseej for Technology | Medad Cloud backend and AI, Senior since 2026 |
 | 2025 | Baleegh | Arabic literacy, built solo |
 | 2026 | Open source | AI and developer tools: DocuPilot, DataBot and FrappeForge |
 

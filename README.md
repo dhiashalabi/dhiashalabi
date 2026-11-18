@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Dhia Shalabi, Senior Software Engineer, backend and AI systems, Riyadh. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
+  <img alt="Dhia Shalabi, Senior Software Engineer, backend and AI systems, Riyadh. Built for the storm, not the demo. A small container ship named SHIP IT sails past on animated waves." src="assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="https://github.com/dhiashalabi/docupilot">DocuPilot</a>
 </p>
 
-For 7+ years I've designed and shipped backend systems that have to work in production: API platforms, job infrastructure, and AI features with real cost, latency, and permission constraints. I build in English and Arabic, and I've taught more than 1,000 university students along the way.
+For 7+ years I've designed and shipped backend systems that have to work in production: API platforms, job infrastructure, and AI features with real cost, latency, and permission constraints. As my team's senior engineer, I regularly lead design, code review, and mentoring. I build in English and Arabic, and I've taught more than 1,000 university students along the way.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg">
@@ -48,7 +48,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/voyage-dark.svg">
-  <img alt="Career timeline drawn as a sea chart: 2016 Sana'a University, B.Sc. Computer Science. 2019 IT-Tech, first production ERP systems. 2021 Minsati, led a POS for 40+ retailers. 2022 university teaching, 1,000+ students in 2 years. December 2022 Naseej for Technology, Medad Cloud backend and AI. 2025 Baleegh, Arabic literacy, built solo. 2026 open source: DocuPilot, DataBot and FrappeForge, AI and developer tools." src="assets/voyage-light.svg" width="100%">
+  <img alt="Career timeline drawn as a sea chart: 2016 Sana'a University, B.Sc. Computer Science. 2019 IT-Tech, first production ERP systems. 2021 Minsati, led a POS for 40+ retailers. 2022 university teaching, 1,000+ students in 2 years. December 2022 Naseej for Technology, Medad Cloud backend and AI, promoted to Senior in 2026. 2025 Baleegh, Arabic literacy, built solo. 2026 open source: DocuPilot, DataBot and FrappeForge, AI and developer tools." src="assets/voyage-light.svg" width="100%">
 </picture>
 
 <details>
@@ -60,7 +60,7 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 | 2019 | IT-Tech | First production ERP systems |
 | 2021 | Minsati | Led a POS for 40+ retailers |
 | 2022 | University teaching | 1,000+ students in 2 years |
-| Dec 2022 | Naseej for Technology | Medad Cloud backend and AI |
+| Dec 2022 | Naseej for Technology | Medad Cloud backend and AI, promoted to Senior in 2026 |
 | 2025 | Baleegh | Arabic literacy, built solo |
 | 2026 | Open source | AI and developer tools: DocuPilot, DataBot and FrappeForge |
 
@@ -71,11 +71,12 @@ For 7+ years I've designed and shipped backend systems that have to work in prod
 | Deck | Cargo |
 | --- | --- |
 | **System design** | Multi-tenant SaaS, data modeling, API design, job queues, distributed locks, rate limiting |
-| **Backend** | Python, Django REST Framework, FastAPI, Frappe, Celery, RQ, REST APIs |
+| **Backend** | Python, Django REST Framework, FastAPI, Node.js, Frappe, Celery, RQ, REST APIs |
 | **Applied AI** | Pydantic AI, OpenAI, MCP, RAG, pgvector, OCR, PyTorch |
 | **Data** | PostgreSQL, MySQL, Redis, SQLAlchemy, Prisma |
 | **Frontend and mobile** | TypeScript, React, Next.js, TanStack Query, Tailwind CSS, Flutter |
 | **Delivery** | Docker, Kubernetes, AWS, GitHub Actions, Azure DevOps, Pytest, Playwright |
+| **Leadership** | Technical direction, design and code review, releases, mentoring |
 
 ## Hail me
 
